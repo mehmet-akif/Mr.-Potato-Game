@@ -1,9 +1,6 @@
 # Mr. Potato Game
 
 
-## Screenshots
-![Mr. Potato Game Demo](path_to_your_demo_image.png)
-
 ## Description
 The "Mr. Potato Game" is an interactive game developed using JavaScript and jQuery. Users can drag and drop Mr. Potato's body parts to assemble them, while image hover effects enhance interactivity. This project emphasizes front-end development skills, showcasing drag-and-drop functionality and dynamic image interactions.
 
